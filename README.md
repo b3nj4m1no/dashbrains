@@ -20,3 +20,4 @@ In my case:
 127.0.0.1   dashboard.ecobrains.it
 ```
 
+Now go to [admin.ecobrains.it](admin.ecobrains.it) and button redirects to [dashboard.ecobrains.it](dashboard.ecobrains.it)
